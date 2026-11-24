@@ -6,6 +6,7 @@ Lately I build tools around AI hardware and AI agents, and write about what I le
 
 ## Building
 - **[paper2video](https://github.com/SunandBean/paper2video)**: a Claude Code skill that turns an arXiv paper into a narrated explainer video. Every number on screen is checked against the paper before it renders.
+  [GitHub](https://github.com/SunandBean/paper2video) · [YouTube channel](https://www.youtube.com/@paper2videoai)
 - **Generative models on one Tenstorrent p100a**: seven open image, video, and music models on a single Blackhole card, three with no earlier Tenstorrent implementation.
   [FLUX.2 klein](https://github.com/SunandBean/tt-flux2-klein) · [Z-Image Turbo](https://github.com/SunandBean/tt-z-image-turbo) · [Wan 2.2](https://github.com/SunandBean/tt-wan22) · [Qwen-Image-Edit](https://github.com/SunandBean/tt-qwen-image-edit) · [HiDream-O1](https://github.com/SunandBean/tt-hidream-o1) · [ACE-Step](https://github.com/SunandBean/tt-acestep) · [DiffRhythm](https://github.com/SunandBean/tt-diffrhythm) · [What I learned](https://sunbin.kim/tenstorrent-p100a-series-look-back/)
 - **MIT Driverless**: MIT's student autonomous racing team, where I co-lead sponsorship.
